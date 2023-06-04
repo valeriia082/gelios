@@ -1,0 +1,9 @@
+/*
+Theme Name:     Twenty Twenty-One child
+Template:       twentytwentyone
+
+This is the child theme for Twenty Twenty-One theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../twentyseventeen/rtl.css");
